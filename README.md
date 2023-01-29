@@ -1,6 +1,6 @@
 # My-Profile
 
-# Hi there! 👋
+### Hi there! 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/pranima-kansakar-854250188/">
