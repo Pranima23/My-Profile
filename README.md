@@ -18,4 +18,4 @@
 
 ### :woman_technologist: About Me:
 
-I am a Full Stack Developer.
+<strong>I am a Full Stack Developer.</strong>
