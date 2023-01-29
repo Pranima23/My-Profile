@@ -1,8 +1,7 @@
 # My-Profile
-<h1> Hi there! </h1>
 
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/pranima-kansakar-854250188/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,7 +12,10 @@
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=%22%20alt=%22Instagram%20Badge"/>
   </a>  
 </div>
+<h1> Hi there! </h1>
 
 ---
 
 ### :woman_technologist: About Me:
+
+I am a Full Stack Developer.
