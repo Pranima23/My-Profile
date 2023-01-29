@@ -1,6 +1,7 @@
 # My-Profile
 
 ### Hi there! 👋
+I am Pranima Kansakar from Nepal. 🇳🇵
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/pranima-kansakar-854250188/">
