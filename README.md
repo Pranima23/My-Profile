@@ -48,3 +48,5 @@ I am Pranima Kansakar from Nepal. 🇳🇵
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranima23&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranima23)](https://github.com/anuraghazra/github-readme-stats)
+
