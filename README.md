@@ -2,7 +2,7 @@
 <h1> Hi there! </h1>
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pranima-kansakar-854250188/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,5 +14,4 @@
   </a>  
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Pranima23&style=flat-square&color=blue" alt=""/>
 
