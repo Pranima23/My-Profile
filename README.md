@@ -1,5 +1,6 @@
 # My-Profile
 
+# Hi there! 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/pranima-kansakar-854250188/">
@@ -12,7 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=%22%20alt=%22Instagram%20Badge"/>
   </a>  
 </div>
-# Hi there!
+
 
 ---
 
