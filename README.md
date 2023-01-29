@@ -21,6 +21,6 @@ I am Pranima Kansakar from Nepal. 🇳🇵
 ### :woman_technologist: About Me:
 
 **I am an Undergraduate Student in my final semester.**
-- ✨ **Exploring:** Full Stack Web Development, Natural Language Processing
-- 📙 **Education**: Bachelors in Computer Engineering at Kathmandu University
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranima-kansakar-854250188/)
+- ✨ *Exploring:* Full Stack Web Development, Natural Language Processing
+- 📙 *Education*: Bachelors in Computer Engineering at Kathmandu University
+- 📫 *How to reach me*: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranima-kansakar-854250188/)
