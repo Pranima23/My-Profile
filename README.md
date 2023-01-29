@@ -11,6 +11,8 @@
   </a>
   <a href="https://www.instagram.com/pranima__/">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=%22%20alt=%22Instagram%20Badge"/>
-  </a>
-  
+  </a>  
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=Pranima23&style=flat-square&color=blue" alt=""/>
+
