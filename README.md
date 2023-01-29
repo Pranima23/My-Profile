@@ -12,10 +12,13 @@
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=%22%20alt=%22Instagram%20Badge"/>
   </a>  
 </div>
-<h1> Hi there! </h1>
+# Hi there!
 
 ---
 
 ### :woman_technologist: About Me:
 
-<strong>I am a Full Stack Developer.</strong>
+**I am an Undergraduate Student in my final semester.**
+✨ **Exploring:** Full Stack Web Development, Natural Language Processing
+📙 **Education**: Bachelors in Computer Engineering at Kathmandu University
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranima-kansakar-854250188/)
